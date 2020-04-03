@@ -6,7 +6,7 @@ public class Arithmatic {
 		// TODO Auto-generated method stub
 
 		int number1 = 230;
-		int number2 = 34;
+		int number2 = 44;
 		int result = number1 + number2;
 		System.out.println("the sum of two number : = " + result);
 
